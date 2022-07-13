@@ -82,7 +82,7 @@
  * providing the source code to your customers.)
  */
 #ifndef SOURCE_CODE_URL
-  #define SOURCE_CODE_URL "github.com/icorbrey/wonderforge"
+  #define SOURCE_CODE_URL "icorbrey/wonderforge"
 #endif
 
 /**
