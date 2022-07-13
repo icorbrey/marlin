@@ -82,7 +82,7 @@
  * providing the source code to your customers.)
  */
 #ifndef SOURCE_CODE_URL
-  #define SOURCE_CODE_URL "icorbrey/wonderforge"
+  #define SOURCE_CODE_URL "https://github.com/icorbrey/wonderforge"
 #endif
 
 /**
@@ -97,7 +97,7 @@
    * documentation about a specific Marlin release. Displayed in the Info Menu.
    */
 #ifndef WEBSITE_URL
-  #define WEBSITE_URL "marlinfw.org"
+  #define WEBSITE_URL "icorbrey/wonderforge"
 #endif
 
 /**
